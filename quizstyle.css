@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     background: 
         linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)),
-        url('/images/musor.jpg') no-repeat center center fixed;
+        url('./images/musor.jpg') no-repeat center center fixed;
     background-size: cover;
     font-family: "Bebas Neue", sans-serif;
     position: relative;
